@@ -76,7 +76,5 @@
 ###
 
 ## 💣 Campo Minado
-<!-- minesweeper-start -->
-O jogo será exibido aqui...
-<!-- minesweeper-end -->
+
 
