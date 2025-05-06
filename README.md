@@ -71,11 +71,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
+
 
 ###
-<h3 align="center">Campo minado</h3>
-<p aling="center">Comming soon</p>
-
+<div align="center">
+<h3 >Campo minado</h3>
+<p >Comming soon</p>
+</div>
